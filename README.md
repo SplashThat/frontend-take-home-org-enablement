@@ -16,7 +16,7 @@ Thankfully B.A., the best back-end developer, has already set up some endpoints 
 ## Getting Started
 
 1. _Fork this repo._
-2. _Add Collaborators._ Go to `Settings > Collaborators & Teams` and the Splash team: @heron-- and @mikewsplash
+2. _Add Collaborators._ Go to `Settings > Collaborators & Teams` and the Splash team: @timmyc and @mikewsplash
 3. _Notify._ Once you have finished, simply notify your hiring manager via email.
 
 ## Setup Instructions
